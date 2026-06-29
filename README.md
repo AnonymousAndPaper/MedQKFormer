@@ -133,6 +133,3 @@ Performance comparison with 14 SOTA methods on ISIC2018, Kvasir, BUSI, COVID-19 
 -->
 
 
-## 🎫 License
-
-The content of this project itself is licensed under [LICENSE](https://github.com/ILoveTMI/MedQKFormer/blob/main/LICENSE).
